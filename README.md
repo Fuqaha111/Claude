@@ -2,7 +2,7 @@
 
 ## AI Fluency for builders
 
-### Introduction to AI Fluency
+### Introduction to AI Fluency (Claude Academy)
 
 AI Fluency: the ability to engage with AI systems in ways that are efficient, effective, ethical and safe
 
